@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Protein Recipe Generator",
+  "description": "An application that generates unique and delicious recipes based on the protein ingredients you have available. Simply enter your proteins, and let AI create a culinary masterpiece for you.",
+  "requestFramePermissions": []
+}
